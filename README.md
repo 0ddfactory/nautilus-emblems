@@ -23,7 +23,7 @@ Nautilus Emblems will use any of these standard emblems:
 In project directory:
 ```
 chmod +x install.sh
-sudo ./install.sh
+./install.sh
 nautilus -q
 ```
 OR
@@ -40,6 +40,6 @@ yay -S nautilus-emblems
 In project directory:
 ```
 chmod +x uninstall.sh
-sudo ./uninstall.sh
+./uninstall.sh
 nautilus -q
 ```
