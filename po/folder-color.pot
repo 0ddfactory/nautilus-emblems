@@ -17,62 +17,6 @@ msgstr ""
 "Content-Type: text/plain; charset=CHARSET\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: nautilus-extension-gtk3/folder-color.py:27
-msgid "Black"
-msgstr ""
-
-#: nautilus-extension-gtk3/folder-color.py:28
-msgid "Blue"
-msgstr ""
-
-#: nautilus-extension-gtk3/folder-color.py:29
-msgid "Brown"
-msgstr ""
-
-#: nautilus-extension-gtk3/folder-color.py:30
-msgid "Cyan"
-msgstr ""
-
-#: nautilus-extension-gtk3/folder-color.py:31
-msgid "Green"
-msgstr ""
-
-#: nautilus-extension-gtk3/folder-color.py:32
-msgid "Grey"
-msgstr ""
-
-#: nautilus-extension-gtk3/folder-color.py:33
-msgid "Magenta"
-msgstr ""
-
-#: nautilus-extension-gtk3/folder-color.py:34
-msgid "Orange"
-msgstr ""
-
-#: nautilus-extension-gtk3/folder-color.py:35
-msgid "Pink"
-msgstr ""
-
-#: nautilus-extension-gtk3/folder-color.py:36
-msgid "Purple"
-msgstr ""
-
-#: nautilus-extension-gtk3/folder-color.py:37
-msgid "Red"
-msgstr ""
-
-#: nautilus-extension-gtk3/folder-color.py:38
-msgid "Violet"
-msgstr ""
-
-#: nautilus-extension-gtk3/folder-color.py:39
-msgid "White"
-msgstr ""
-
-#: nautilus-extension-gtk3/folder-color.py:40
-msgid "Yellow"
-msgstr ""
-
 #: nautilus-extension-gtk3/folder-color.py:43
 msgid "Important"
 msgstr ""
