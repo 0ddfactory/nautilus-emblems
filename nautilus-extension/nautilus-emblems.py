@@ -139,7 +139,7 @@ class NautilusEmblemsMenu(GObject.GObject, Nautilus.MenuProvider):
 
         # Main menu
         if emblems:
-            top_menuitem = Nautilus.MenuItem(name="NautilusEmblemsMenu::colors", label=_("Emblem"), icon="color-picker")
+            top_menuitem = Nautilus.MenuItem(name="NautilusEmblemsMenu::colors", label=_("Emblem"))
         else:
             return
         submenu = Nautilus.Menu()
