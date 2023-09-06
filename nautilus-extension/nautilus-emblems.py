@@ -1,16 +1,16 @@
-# Folder Color 0.3.2 - https://github.com/costales/folder-color
-# Copyright (C) 2012-2023 Marcos Alvarez Costales
+# Nautilus Emblems 1.0 - https://github.com/0ddfactory/nautilus-emblems
+# Copyright (C) 2023-2024 0ddfactory
 #
 # This program is free software; you can redistribute it and/or modify
 # it under the terms of the GNU General Public License as published by
 # the Free Software Foundation; either version 3 of the License, or
 # (at your option) any later version.
-
+#
 # This program is distributed in the hope that it will be useful,
 # but WITHOUT ANY WARRANTY; without even the implied warranty of
 # MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
 # GNU General Public License for more details.
-
+#
 # THIS IS A MODIFICATION OF FOLDER-COLOR REMOVING UNNECESSARY CODE
 # FOR THE PURPOSE OF EMBLEM MARKING FILES.
 
