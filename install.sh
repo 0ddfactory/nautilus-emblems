@@ -1,6 +1,7 @@
 #!/bin/bash
 
 #Install Script
+#Version = "1.0"
 
 # po
 sed -i 's/folder_i18n/nautilus-emblems/' ./po/POTFILES.in
