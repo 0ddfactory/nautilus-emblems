@@ -28,9 +28,11 @@ nautilus -q
 ```
 OR
 
-Install via AUR:
-
-[![b68973092ba1e00cde8083c5b3050af3a538b2e1b8b49d317477b7b53494baa11bdd3af9fe3cb6a58982ac9dfd9808610ac36c39288009eea6db0f591b816a25](https://github.com/0ddfactory/nautilus-emblems/assets/25939455/525429ce-ce99-4f13-84b6-4ccb57c7b197)](https://aur.archlinux.org/packages/nautilus-emblems)
+Install via AUR with yay:
+```
+yay -S nautilus-emblems
+```
+![AUR](https://github.com/0ddfactory/nautilus-emblems/assets/25939455/525429ce-ce99-4f13-84b6-4ccb57c7b197)
 
 
 # UNINSTALL
