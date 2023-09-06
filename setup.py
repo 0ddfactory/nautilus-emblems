@@ -17,12 +17,11 @@ data = [ ('/usr/share/nautilus-python/extensions',   ['nautilus-extension/folder
 
 # Setup stage
 DistUtilsExtra.auto.setup(
-    name         = "folder-color",
-    version      = "0.3.2",
-    description  = "Change your folder color with just a click",
-    author       = "Marcos Alvarez Costales",
-    author_email = "marcos.costales@gmail.com",
-    url          = "https://github.com/costales/folder-color",
+    name         = "nautilus-emblems",
+    version      = "1.0.0",
+    description  = "A file marking extension for Nautilus",
+    author       = "0ddfactory"
+    url          = "https://github.com/0ddfactory/nautilus-emblems",
     license      = "GPL3",
     data_files   = data
 )
