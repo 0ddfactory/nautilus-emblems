@@ -3,7 +3,7 @@
 **A file marking extension for Nautilus (GTK 4)**  
 
 -Forked from costales/folder-color in order to achieve two goals:
- 1. Remove code unneeded for marking files with emblems in Nautilus simplifying the extension
+ 1. Remove code unneeded for marking files with emblems in Nautilus simplifying the extension.
  2. Bypass a bug caused by part of the original code meant to change the folder colors causing nautilus to crash on launch when folders are bookmarked.
 
 # EMBLEMS 
