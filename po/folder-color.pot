@@ -37,10 +37,6 @@ msgstr ""
 msgid "New"
 msgstr ""
 
-#: nautilus-extension-gtk3/folder-color.py:226
-msgid "Color"
-msgstr ""
-
 #: nautilus-extension-gtk3/folder-color.py:247
 #: nautilus-extension-gtk3/folder-color.py:265
 msgid "Default"
